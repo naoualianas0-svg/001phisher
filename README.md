@@ -14,4 +14,8 @@ and Termux📱
  
  bash 001phisher.sh
 
- 
+ for use cloudflared with 001phisher in termux
+
+ write this cmd:
+
+ cloudflared tunnel --url your ip and port
